@@ -3,3 +3,4 @@ jenkins test2
 jenkins test4
 jenkins test555
 qb test1
+qb test2
