@@ -5,3 +5,4 @@ jenkins test555
 qb test1
 qb test2
 qb test3345678899
+자동 연동
